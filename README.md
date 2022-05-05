@@ -17,6 +17,14 @@ const Mary = {
   hobbies: "I love cats and music"
 }
 ```
+ </br>
+ 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=marynour&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Oussama's Github Stats">
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealKintaro&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/marynour/github-readme-stats)
+</br>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
