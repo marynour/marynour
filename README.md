@@ -2,7 +2,7 @@
 <img align='right' src="https://img.freepik.com/free-vector/cute-girl-working-computer-cartoon-vector-icon-illustration-people-technology-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-1444.jpg" width="230">
 <p><em>Student at <a href="https://www.u-picardie.fr/universite-de-picardie-jules-verne-290591.kjsp">University of Picardie Jules Verne</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
-[![Linkedin: Maryam Nour Eddine](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maryam-nour-eddine-749450202/)](https://www.linkedin.com/in/maryam-nour-eddine-749450202/)
+[![Linkedin: Maryam Nour Eddine](https://img.shields.io/badge/-Maryam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maryam-nour-eddine-749450202/)](https://www.linkedin.com/in/maryam-nour-eddine-749450202/)
 [![GitHub Marynour](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/marynour)
 
 
