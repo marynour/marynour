@@ -10,9 +10,8 @@
 
 ```javascript
 const Mary = {
-  pronouns: "she" | "her",
   code: [Javascript, Java EE, HTML, CSS, PHP, Python, Java, XML,SQL],
-  tools: [React, Synphony, ASP.NET, MERISE, UML, Tensorflow, Pandas],
+  tools: [React Js, Symphony, ASP.NET, MERISE, UML, Tensorflow, Pandas],
   architecture: ["MVC design pattern"],
   hobbies: "I love cats and music"
 }
